@@ -1,0 +1,10 @@
+Graphidx Diameter
+bat_0 42094.0
+bat_1 47286.0
+human_1 47362.0
+human_2 65515.0
+bat_2 29345.0
+human_0 20019.0
+duck_0 34391.0
+duck_1 16548.0
+duck_2 20646.0

@@ -1,0 +1,15 @@
+bat_0.msa.graph
+bat_1.msa.graph
+bat_2.msa.graph
+duck_0.msa.graph
+duck_1.msa.graph
+duck_2.msa.graph
+human_0.msa.graph
+human_1.msa.graph
+human_2.msa.graph
+hylobates_0.msa.graph
+hylobates_1.msa.graph
+hylobates_2.msa.graph
+pan_0.msa.graph
+pan_1.msa.graph
+pan_2.msa.graph
