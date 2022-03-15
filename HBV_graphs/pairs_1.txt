@@ -1,0 +1,13 @@
+bat_0.msa.graph,bat_2.msa.graph
+human_1.msa.graph,bat_2.msa.graph
+bat_0.msa.graph,human_0.msa.graph
+bat_2.msa.graph,duck_0.msa.graph
+bat_0.msa.graph,human_1.msa.graph
+bat_1.msa.graph,human_1.msa.graph
+human_1.msa.graph,human_2.msa.graph
+bat_0.msa.graph,human_2.msa.graph
+bat_1.msa.graph,duck_0.msa.graph
+human_2.msa.graph,duck_0.msa.graph
+bat_0.msa.graph,bat_1.msa.graph
+human_2.msa.graph,human_0.msa.graph
+human_2.msa.graph,bat_2.msa.graph
