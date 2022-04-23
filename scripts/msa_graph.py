@@ -1,6 +1,7 @@
 from collections import defaultdict
 from Bio import SeqIO
 import numpy as np
+import pickle
 
 def read_msa(fname):
     records = SeqIO.parse(fname,"fasta")
