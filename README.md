@@ -1,5 +1,5 @@
 # gtedemedtest
-=======
+
 This repository contains data and script for reproducing results in the follow manuscript:
 
 *The Effect of Genome Graph Expressiveness onthe Discrepancy Between Genome Graph Distanceand String Set Distance*
