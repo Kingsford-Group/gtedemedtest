@@ -25,7 +25,7 @@ This repository contains data and script for reproducing results in the follow m
     - `TCR_summary.csv` -- contains summary stats for all pairs of MSA graphs
     - `TCR_FGTED.csv` -- contains FGTED between pairs of dBG4 graphs
 
-## Hepatitis B Virus
+### Hepatitis B Virus
 - Data: MSA graphs constructed on 9 string sets are contained in `HBV_graphs`
     - `HBV_all_EMED.csv` -- contains all pair-wise EMED
     - `HBV_sampled_diameters.txt` -- contains all sampled diameters
