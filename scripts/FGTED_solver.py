@@ -24,13 +24,12 @@ def print_help(flag=0):
     exit()
     
 def read_graph(fname):
-    # try:
-    if "dbg" in fname:
-        return read_dbg_graph(fname)
-    elif "msa" in fname:
-        return read_msa_graph(fname)
-    else:
+    try:
+        with open(fname, "rb") as ifile:
+            return pickle.load(ifile)
+    except:
         print_help(1)
+        exit()
 
 if __name__ == "__main__":
 
